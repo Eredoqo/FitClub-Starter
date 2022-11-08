@@ -20,7 +20,7 @@
   margin-top: 4rem;
   background-color: #ddedf8;
   border-radius: 4rem;
-  width: fit-content;
+  width: 320px;
   padding: 20px 15px;
   text-transform: uppercase;
   position: relative;
@@ -37,7 +37,7 @@
   position: absolute;
   background-color: var(--orange);
   height: 3rem;
-  width: 30%;
+  width: 25%;
   left: 13px;
   border-radius: 4rem;
   z-index: 1;
@@ -136,15 +136,16 @@
 
 .hero-image {
   position: absolute;
-  top: 10rem;
+  top: 7rem;
   right: 15rem;
   width: 23rem;
+  height: 400px;
 }
 
 .hero-image-back {
   position: absolute;
   top: 4rem;
-  right: 27rem;
+  right: 25rem;
   z-index: -1;
   width: 15rem;
 }
@@ -155,10 +156,10 @@
   background-color: #fdfff7;
   border-radius: 5px;
   padding: 1rem;
-  width: 280px;
+  width: 200px;
   position: absolute;
   top: 32rem;
-  right: 45rem;
+  right: 3rem;
 }
 
 .calories > img {
